@@ -1,6 +1,6 @@
-# Makerverse™ Nano Power Timer Shield for Raspberry Pi Pico
+# Makerverse™ Nano Power Timer HAT for Raspberry Pi Pico
 
-This is the repo for the Core Electronics [Makerverse Nano Power Timer Shield for Raspberry Pi Pico](https://core-electronics.com.au/catalog/product/view/sku/ce08492).
+This is the repo for the Core Electronics [Makerverse Nano Power Timer HAT for Raspberry Pi Pico](https://core-electronics.com.au/catalog/product/view/sku/ce08492).
 
 The PCB layout project requires KiCAD 6.0 or newer to view. The schematic is provided in PDF format in the Documents folder.
 
